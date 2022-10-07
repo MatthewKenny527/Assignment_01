@@ -18,7 +18,7 @@ namespace Assignment01
                     break;
 
                     case "-l":
-                    Console.WriteLine("File types: \n.md\n.json\n.csv\n.html");
+                    Console.WriteLine("File types: \n Markdown\n Json\n Csv\n Html\n Latex");
                     break;
 
                     case "-h":
