@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYIawhCcWil+MXrqv87L+fVXtzER2aKBvSwDdMh2tj+uOH4835+KwViZpt6E2l0+Wg5Afp/ixB7xaBwrHdc5Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matta\\OneDrive - Maynooth University\\Third Year\\CS264\\Code\\Assignment_01\\Assignment_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matta\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\matta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
