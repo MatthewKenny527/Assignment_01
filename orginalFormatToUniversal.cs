@@ -1,5 +1,7 @@
 using System.Text.RegularExpressions;
 
+//This class converts the first file the user reads in into a universal format which is then sent into the universal Data class to
+// be stored.
 namespace Assignment01{
     public class orginalToUniversal{
         

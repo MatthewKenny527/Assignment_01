@@ -1,3 +1,4 @@
+//This class is for storing all of the table data after it is extracted from the table format the the user reads in.
 namespace Assignment01{
     public class UniversalData{
         private string oldFormat;

@@ -1,3 +1,4 @@
+//This class is used to convert the universal data into the newformat the user has ask for. The that is add to the file the user ask for.
 namespace Assignment01{
     public class universalToNewFormat{
         public static void NewFormater(){

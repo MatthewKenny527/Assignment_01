@@ -1,4 +1,4 @@
-
+//The extra marks that were done in this file was to go to and from latex.
 namespace Assignment01
 {
     public class Program
@@ -9,7 +9,7 @@ namespace Assignment01
         private String newFormat="";
         static void Main(string[] args)
         {
-            
+            //This is the switch statement that finds what the user wants such as -h for help and -v for verbose
             for(int i =0; i<args.Length; i++){
                 switch(args[i]){
                     
